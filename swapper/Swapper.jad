@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+MIDlet-Version: 1.0
+MIDlet-Jar-Size: 316188
+RIM-COD-URL-3: Swapper-3.cod
+RIM-COD-URL-2: Swapper-2.cod
+RIM-COD-SHA1-3: 76 fe ec a3 20 8d 90 ae af 89 6b ae 2c 19 2c 87 61 6f 8d 00
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: Survival.jar
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-URL-1: Swapper-1.cod
+RIM-COD-SHA1-2: f1 e9 3a a1 23 3f 46 03 af 6e 2f 37 ae 78 b6 53 8d ca 76 a6
+RIM-COD-SHA1-1: cf 4d aa 85 15 b4 33 67 2f b9 b2 47 ef bc cb f7 db ac b7 93
+RIM-COD-Size-3: 57924
+RIM-COD-Size-2: 55908
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Module-Name: Swapper
+RIM-COD-Size-1: 57080
+RIM-COD-Size: 35604
+MIDlet-Name: Swapper
+RIM-COD-Creation-Time: 1237064769
+MIDlet-1: Swapper,src/icon.png,
+RIM-COD-URL: Swapper.cod
+MIDlet-Description: Action packed game of survival
+RIM-COD-SHA1: ed d3 3c 97 df ba df c3 80 7c c9 ea 62 5b b8 07 c3 5e 6f 92
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: Noah Sugarman
